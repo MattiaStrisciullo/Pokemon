@@ -1,5 +1,5 @@
 <?php
-$file = fopen("dati.csv", "r");
+$file = fopen("pokemon.csv", "r");
 
 echo "<table border='1'>";
 
